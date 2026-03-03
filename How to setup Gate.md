@@ -15,4 +15,4 @@ You can add levels through /level-config add-level command, and remove them with
 Finally: You will need to choose the cooldown between gaining activity points. The default cooldown is 5 minutes, however this can be changed with /server-config set-activity-cooldown. 
 
 Tips:
-It may be wise to not instantly lock channels if you are adding Gate to a well established server.
+It may be wise to not instantly lock channels if you are adding Gate to a well established server. Give users some time to gain points before everything is locked down.
