@@ -6,3 +6,10 @@ Nothing. Gate works in the background, and will only act when your roles need to
 
 What do I need to do as a server moderator?  
 Setting up gate can be a little involved. Reffer to the page on setup for more information.
+
+What kind of data does Gate store?  
+Gate only stores your user ID number, your point total in each guild you are in, and (technically) what guilds you are in that also have Gate in them. Gate will never store message content.
+
+Who can access that data?  
+Server moderators are allowed to access all data Gate has stored on their guild (this is only user point totals within that guild).
+Bot developers have access to the full databases, but those will never be looked into unless there is a very good reason.
