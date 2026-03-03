@@ -10,7 +10,7 @@ Next, make a discord role for every trust level you want to have. These roles wi
 Each trust level has three elements, Name, Role, and Threshold.  
 Name: The name of the trust level.   
 Role: The discord role members at this trust level will have.  
-Threshold: The number of points needed to be at this trust level.  
+Threshold: The minimum number of points needed to be at this trust level. Users will remain in this turst level until they hit another threshold.  
 You can add levels through /level-config add-level command, and remove them with /level-config remove-level  
 Finally: You will need to choose the cooldown between gaining activity points. The default cooldown is 5 minutes, however this can be changed with /server-config set-activity-cooldown.   
 
